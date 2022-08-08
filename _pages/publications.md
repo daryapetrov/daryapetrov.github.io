@@ -7,7 +7,12 @@ author_profile: true
 
 [Download resume here](http://daryapetrov.github.io/files/resume.pdf)
 
-<embed src="http://daryapetrov.github.io/files/resume.pdf" width="500" height="375" 
+<iframe src="/files/resume.pdf" width="100%" height="500px">
+</iframe>
+
+<p>testing html</p>
+
+<embed src="http://daryapetrov.github.io/files/resume.pdf" 
  type="application/pdf">
 
 {% if author.googlescholar %}
