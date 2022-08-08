@@ -7,13 +7,9 @@ author_profile: true
 
 [Download resume here](http://daryapetrov.github.io/files/resume.pdf)
 
-<iframe src="/files/resume.pdf" width="100%" height="500px">
+<iframe src="/files/resume.pdf" width="100%" height="700px">
 </iframe>
 
-<p>testing html</p>
-
-<embed src="http://daryapetrov.github.io/files/resume.pdf" 
- type="application/pdf">
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
