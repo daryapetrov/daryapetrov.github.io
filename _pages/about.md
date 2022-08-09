@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Darya Petrov, but I prefer to go by Dasha. I am a first year statistics Ph.D. student at University of Washington in Seattle, WA. I graduated with a B.S. in Statistics (Machine Learning Track) from UC Davis, with a computer science minor. The topics I researched as an undergraduate were (1) topology-preserving dimension reduction and (2) COVID-19 dynamics. In my free time, I enjoy doing acroyoga and hiking!
+Hello! My name is Darya Petrov, but I prefer to go by Dasha. I am a first year statistics Ph.D. student at University of Washington in Seattle, WA. I graduated with a B.S. in Statistics (Machine Learning Track) from UC Davis, with a computer science minor. The topics I researched as an undergraduate were (1) topology-preserving dimension reduction and (2) COVID-19 dynamics. In my free time, I enjoy doing acroyoga, hiking, and cycling!
 
 {% comment %}
 

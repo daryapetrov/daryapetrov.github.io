@@ -1,3 +1,5 @@
+{% comment %}
+
 ---
 title: "Teaching experience 2"
 collection: teaching
@@ -18,3 +20,5 @@ Heading 2
 
 Heading 3
 ======
+
+{% endcomment %}
