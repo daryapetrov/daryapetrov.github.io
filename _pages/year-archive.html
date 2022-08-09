@@ -11,6 +11,8 @@ redirect_from:
 
 <img src='/images/high_h2h.png' width="25%" height="50%">
 
+{% comment %}
+
 {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}
@@ -21,4 +23,6 @@ redirect_from:
   {% endif %}
   {% include archive-single.html %}
 {% endfor %}
+
+{% endcomment %}
 
