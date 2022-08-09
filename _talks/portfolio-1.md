@@ -1,11 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Inference on the Dynamics of COVID-19 in Kerala, India"
+excerpt: "Advised by Dr. Debashis Paul"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
-
-This is in the research section 
-
-fast?
+ABSTRACT:  The evolution of the COVID-19 pandemic can be described through a time-dependent stochastic dynamic model in discrete time as seen in the research article, Inference on the dynamics of COVID-19 in the United States, by Satarupa Bhattacharjee, Shuting Liao, Debashis Paul, and Sanjay Chaudhuri. The model is expressed through a system of difference equations, and incorporates information on social distancing measures and diagnostic testing rates to characterize the dynamics of the pandemic. The model's key feature is its ability to estimate the unobservable count of asymptomatic individuals that are known to be the key vectors of COVID-19 spread. Using this model, I analyze publically available data from the state of Kerala in India to gain a better understanding of COVID-19. 
