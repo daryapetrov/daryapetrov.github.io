@@ -1,6 +1,6 @@
 ---
 title: "Missing Data and the Expectation Maximization (EM) Algorithm"
-excerpt: "Group project for a Big Data & High Performance Statistical Computing course"
+excerpt: "Group project for a Big Data & High Performance Statistical Computing course <br/><img src='/images/convergence.png'>"
 collection: portfolio
 ---
 
