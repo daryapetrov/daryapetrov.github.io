@@ -1,11 +1,14 @@
 ---
-title: "daryapetrov.github.io"
+title: "Jane Roe"
+image: media/headshot.jpg
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Hi, I’m Jane Roe! I’m an undergraduate student at UC Santa Barbara, majoring in Computer Science with a minor in Environmental Studies. I love taking long walks by the beach, coding under the serene glow of the moon, and I may or may not name my variables after my favorite constellations (Orion functions, anyone?). When I’m not debugging my latest project, you’ll probably find me stargazing or trying (and failing) to teach my cat how to fetch.

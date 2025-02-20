@@ -1,0 +1,28 @@
+---
+title: "Projects & Publications"
+---
+
+## Projects
+
+1.  **Stargazers Meetup App**
+    -   A mobile-friendly application for stargazing enthusiasts to schedule events, share star maps, and connect with others. Developed using React and Firebase.
+2.  **Coastal Cleanup Data Dashboard**
+    -   An interactive dashboard visualizing beach cleanup data, built using Python, Pandas, and Plotly. Showcases metrics like trash collected, volunteer participation, and cleanup frequency.
+3.  **Moonlit Portfolio Website**
+    -   A personal portfolio website highlighting projects and achievements, designed with Quarto and hosted on GitHub Pages.
+
+## Publications
+
+1.  **"The Intersection of Technology and Sustainability: A Case Study on Coastal Data Visualization"**
+    -   Published in UCSB’s *Undergraduate Journal of Environmental Studies* (Spring 2024).
+2.  **"Coding Under the Stars: How Astronomical Themes Can Inspire Creativity in Computer Science"**
+    -   Published as a blog post on Medium, garnering over 2,000 views and featured in the UCSB Computer Science Club newsletter (February 2024).
+
+## Posters
+
+1.  **"Beach Cleanup Data Visualization: Empowering Communities Through Interactive Dashboards"**
+    -   Presented at the UCSB Environmental Studies Symposium, April 2024.
+2.  **"Stargazers Meetup App: Bridging Astronomy Enthusiasts with Technology"**
+    -   Presented at the UCSB Undergraduate Research and Creative Activities Fair, May 2024.
+3.  **"From Code to Coastline: Integrating Programming and Environmental Advocacy"**
+    -   Presented at the Sustainability Through Technology Conference, Santa Barbara, CA, March 2024. [Link](https://ur.umbc.edu/wp-content/uploads/sites/354/2016/06/adjakwahEricSm.pdf){target="_blank"}

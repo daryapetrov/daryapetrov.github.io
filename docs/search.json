@@ -7,10 +7,38 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects & Publications",
+    "section": "",
+    "text": "Stargazers Meetup App\n\nA mobile-friendly application for stargazing enthusiasts to schedule events, share star maps, and connect with others. Developed using React and Firebase.\n\nCoastal Cleanup Data Dashboard\n\nAn interactive dashboard visualizing beach cleanup data, built using Python, Pandas, and Plotly. Showcases metrics like trash collected, volunteer participation, and cleanup frequency.\n\nMoonlit Portfolio Website\n\nA personal portfolio website highlighting projects and achievements, designed with Quarto and hosted on GitHub Pages."
+  },
+  {
+    "objectID": "projects.html#projects",
+    "href": "projects.html#projects",
+    "title": "Projects & Publications",
+    "section": "",
+    "text": "Stargazers Meetup App\n\nA mobile-friendly application for stargazing enthusiasts to schedule events, share star maps, and connect with others. Developed using React and Firebase.\n\nCoastal Cleanup Data Dashboard\n\nAn interactive dashboard visualizing beach cleanup data, built using Python, Pandas, and Plotly. Showcases metrics like trash collected, volunteer participation, and cleanup frequency.\n\nMoonlit Portfolio Website\n\nA personal portfolio website highlighting projects and achievements, designed with Quarto and hosted on GitHub Pages."
+  },
+  {
+    "objectID": "projects.html#publications",
+    "href": "projects.html#publications",
+    "title": "Projects & Publications",
+    "section": "Publications",
+    "text": "Publications\n\n“The Intersection of Technology and Sustainability: A Case Study on Coastal Data Visualization”\n\nPublished in UCSB’s Undergraduate Journal of Environmental Studies (Spring 2024).\n\n“Coding Under the Stars: How Astronomical Themes Can Inspire Creativity in Computer Science”\n\nPublished as a blog post on Medium, garnering over 2,000 views and featured in the UCSB Computer Science Club newsletter (February 2024)."
+  },
+  {
+    "objectID": "projects.html#posters",
+    "href": "projects.html#posters",
+    "title": "Projects & Publications",
+    "section": "Posters",
+    "text": "Posters\n\n“Beach Cleanup Data Visualization: Empowering Communities Through Interactive Dashboards”\n\nPresented at the UCSB Environmental Studies Symposium, April 2024.\n\n“Stargazers Meetup App: Bridging Astronomy Enthusiasts with Technology”\n\nPresented at the UCSB Undergraduate Research and Creative Activities Fair, May 2024.\n\n“From Code to Coastline: Integrating Programming and Environmental Advocacy”\n\nPresented at the Sustainability Through Technology Conference, Santa Barbara, CA, March 2024. Link"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "daryapetrov.github.io",
+    "title": "Jane Roe",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hi, I’m Jane Roe! I’m an undergraduate student at UC Santa Barbara, majoring in Computer Science with a minor in Environmental Studies. I love taking long walks by the beach, coding under the serene glow of the moon, and I may or may not name my variables after my favorite constellations (Orion functions, anyone?). When I’m not debugging my latest project, you’ll probably find me stargazing or trying (and failing) to teach my cat how to fetch."
   }
 ]
